@@ -1,0 +1,100 @@
+0,Inception,Sci-Fi,2010
+1,Joker,Drama,2019
+2,Interstellar,Sci-Fi,2014
+3,The Dark Knight,Action,2008
+4,Avengers: Endgame,Action,2019
+5,Titanic,Romance,1997
+6,The Shawshank Redemption,Drama,1994
+7,Avatar,Adventure,2009
+8,The Godfather,Crime,1972
+9,Gladiator,Action,2000
+10,Forrest Gump,Drama,1994
+11,La La Land,Romance,2016
+12,Pulp Fiction,Crime,1994
+13,Top Gun: Maverick,Action,2022
+14,The Matrix,Sci-Fi,1999
+15,Doctor Strange,Sci-Fi,2016
+16,The Lion King,Animation,1994
+17,Spirited Away,Fantasy,2001
+18,Dune,Sci-Fi,2021
+19,Black Panther,Action,2018
+20,The Conjuring,Horror,2013
+21,The Exorcist,Horror,1973
+22,It,Horror,2017
+23,Her,Romance,2013
+24,Up,Animation,2009
+25,Coco,Animation,2017
+26,Toy Story,Animation,1995
+27,Inside Out,Animation,2015
+28,Ratatouille,Animation,2007
+29,Avengers: Infinity War,Action,2018
+30,Iron Man,Action,2008
+31,Deadpool,Action,2016
+32,Man of Steel,Action,2013
+33,The Batman,Action,2022
+34,Shutter Island,Thriller,2010
+35,Se7en,Thriller,1995
+36,The Prestige,Thriller,2006
+37,Memento,Thriller,2000
+38,Gone Girl,Thriller,2014
+39,The Social Network,Drama,2010
+40,Hacksaw Ridge,War,2016
+41,1917,War,2019
+42,Saving Private Ryan,War,1998
+43,American Sniper,War,2014
+44,Whiplash,Drama,2014
+45,The Pursuit of Happyness,Drama,2006
+46,Marriage Story,Drama,2019
+47,Fight Club,Drama,1999
+48,The Wolf of Wall Street,Comedy,2013
+49,The Hangover,Comedy,2009
+50,Superbad,Comedy,2007
+51,Jumanji: Welcome to the Jungle,Adventure,2017
+52,The Jungle Book,Adventure,2016
+53,Jurassic Park,Adventure,1993
+54,Indiana Jones: Raiders of the Lost Ark,Adventure,1981
+55,Life of Pi,Adventure,2012
+56,The Revenant,Adventure,2015
+57,The Hobbit: An Unexpected Journey,Fantasy,2012
+58,Harry Potter and the Sorcerer's Stone,Fantasy,2001
+59,Fantastic Beasts,Fantasy,2016
+60,Doctor Sleep,Horror,2019
+61,A Quiet Place,Horror,2018
+62,Paranormal Activity,Horror,2007
+63,The Nun,Horror,2018
+64,Insidious,Horror,2010
+65,The Martian,Sci-Fi,2015
+66,Blade Runner 2049,Sci-Fi,2017
+67,Star Wars: A New Hope,Sci-Fi,1977
+68,The Terminator,Sci-Fi,1984
+69,Back to the Future,Sci-Fi,1985
+70,Cast Away,Drama,2000
+71,The Imitation Game,Drama,2014
+72,Dallas Buyers Club,Drama,2013
+73,The Truman Show,Drama,1998
+74,Argo,Thriller,2012
+75,Nightcrawler,Thriller,2014
+76,Prisoners,Thriller,2013
+77,Tenet,Sci-Fi,2020
+78,The Irishman,Crime,2019
+79,Once Upon a Time in Hollywood,Comedy,2019
+80,Knives Out,Mystery,2019
+81,Sherlock Holmes,Mystery,2009
+82,Ocean's Eleven,Crime,2001
+83,Casino Royale,Action,2006
+84,Mad Max: Fury Road,Action,2015
+85,Baby Driver,Action,2017
+86,Wonder Woman,Action,2017
+87,Shang-Chi,Action,2021
+88,John Wick,Action,2014
+89,Logan,Action,2017
+90,The Greatest Showman,Musical,2017
+91,Sing Street,Musical,2016
+92,Les Miserables,Musical,2012
+93,Cats,Musical,2019
+94,Bohemian Rhapsody,Biography,2018
+95,The Theory of Everything,Biography,2014
+96,The King’s Speech,Biography,2010
+97,Lincoln,Biography,2012
+98,Hotel Mumbai,Thriller,2018
+99,The Big Short,Thriller,2015

@@ -1,0 +1,55 @@
+Recommendations for adhira:
+54,Indiana Jones: Raiders of the Lost Ark,Adventure,0
+53,Jurassic Park,Adventure,0
+52,The Jungle Book,Adventure,0
+51,Jumanji: Welcome to the Jungle,Adventure,0
+56,The Revenant,Adventure,0
+29,Avengers: Infinity War,Action,0
+33,The Batman,Action,0
+32,Man of Steel,Action,0
+31,Deadpool,Action,0
+30,Iron Man,Action,0
+83,Casino Royale,Action,0
+84,Mad Max: Fury Road,Action,0
+85,Baby Driver,Action,0
+19,Black Panther,Action,0
+86,Wonder Woman,Action,0
+87,Shang-Chi,Action,0
+89,Logan,Action,0
+13,Top Gun: Maverick,Action,0
+9,Gladiator,Action,0
+4,Avengers: Endgame,Action,0
+3,The Dark Knight,Action,0
+63,The Nun,Horror,0
+64,Insidious,Horror,0
+65,The Martian,Sci-Fi,0
+66,Blade Runner 2049,Sci-Fi,0
+67,Star Wars: A New Hope,Sci-Fi,0
+68,The Terminator,Sci-Fi,0
+99,The Big Short,Thriller,0
+69,Back to the Future,Sci-Fi,0
+74,Argo,Thriller,0
+75,Nightcrawler,Thriller,0
+76,Prisoners,Thriller,0
+77,Tenet,Sci-Fi,0
+98,Hotel Mumbai,Thriller,0
+0,Inception,Sci-Fi,0
+35,Se7en,Thriller,0
+2,Interstellar,Sci-Fi,0
+14,The Matrix,Sci-Fi,0
+15,Doctor Strange,Sci-Fi,0
+17,Spirited Away,Fantasy,0
+18,Dune,Sci-Fi,0
+20,The Conjuring,Horror,0
+21,The Exorcist,Horror,0
+22,It,Horror,0
+34,Shutter Island,Thriller,0
+62,Paranormal Activity,Horror,0
+36,The Prestige,Thriller,0
+37,Memento,Thriller,0
+38,Gone Girl,Thriller,0
+57,The Hobbit: An Unexpected Journey,Fantasy,0
+58,Harry Potter and the Sorcerer's Stone,Fantasy,0
+59,Fantastic Beasts,Fantasy,0
+60,Doctor Sleep,Horror,0
+61,A Quiet Place,Horror,0
